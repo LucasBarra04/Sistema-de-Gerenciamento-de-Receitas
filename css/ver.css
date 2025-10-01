@@ -39,18 +39,3 @@ a{
     box-shadow: none;
     
 }
-
-textarea{
-    resize: none;
-    height: 500px;
-    font-size: 25px;
-    width: 50vw;
-    margin: 20px;
-}
-
-input{
-    resize: none;
-    height: 50px;
-    width: 50vw;
-    
-}
